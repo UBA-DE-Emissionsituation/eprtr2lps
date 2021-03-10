@@ -1,0 +1,133 @@
+[33mcommit 7a611b5df1de41a853e28a001d1999a977e6674a[m[33m ([m[1;36mHEAD -> [m[1;32mmost_concise_sql_query[m[33m)[m
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Mon Mar 8 22:47:01 2021 +0100
+
+    further small changes added
+
+[33mcommit 2d8fb3fa783a64a5524891f74fd95e73e716267d[m
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Mon Mar 8 21:48:45 2021 +0100
+
+    small changes added
+
+[33mcommit fade4b0ddcc37e0491ab37ef6b03769c29c00f52[m
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Mon Mar 8 21:29:48 2021 +0100
+
+    small changes added
+
+[33mcommit 10fbf909ab0dd9070ec0ac7d60f3feb47be0ef3e[m
+Merge: e089d88 59a4499
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Mon Mar 8 21:18:52 2021 +0100
+
+    pushed new jupyter workbook with the requested changes
+
+[33mcommit e089d88796793d0ae6e7ea7cd561bcfbdae7763a[m
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Mon Mar 8 21:15:28 2021 +0100
+
+    pushed new jupyter notebook with the requested changes
+
+[33mcommit 59a44990219c71bd66ea0d3e6fc11ddf3fd8ab8a[m
+Author: AnnaZagorski <78177520+AnnaZagorski@users.noreply.github.com>
+Date:   Mon Mar 8 15:59:15 2021 +0100
+
+    Update Convert ePRTR data to CLRTAP LPS.ipynb
+    
+    Co-authored-by: Kevin Hausmann <kevin.hausmann@uba.de>
+
+[33mcommit dfb44eb1b16a653fc90d6b3c46f6516c262955e7[m
+Author: AnnaZagorski <78177520+AnnaZagorski@users.noreply.github.com>
+Date:   Mon Mar 8 15:59:01 2021 +0100
+
+    Update Convert ePRTR data to CLRTAP LPS.ipynb
+    
+    Co-authored-by: Kevin Hausmann <kevin.hausmann@uba.de>
+
+[33mcommit c6b85039171c094cd0c9b64aa5057482f71f55a4[m
+Author: AnnaZagorski <78177520+AnnaZagorski@users.noreply.github.com>
+Date:   Mon Mar 8 14:31:46 2021 +0100
+
+    Update Convert ePRTR data to CLRTAP LPS.ipynb
+    
+    Co-authored-by: Kevin Hausmann <kevin.hausmann@uba.de>
+
+[33mcommit 8a9db4050ff1b8306dd8492cbebac6a7a396d5cd[m
+Author: AnnaZagorski <78177520+AnnaZagorski@users.noreply.github.com>
+Date:   Thu Mar 4 15:22:29 2021 +0100
+
+    Update Convert ePRTR data to CLRTAP LPS.ipynb
+    
+    Co-authored-by: Kevin Hausmann <kevin.hausmann@uba.de>
+
+[33mcommit 8ea371791d4c4e57c16a1ee70b6f62464b91304a[m
+Author: AnnaZagorski <78177520+AnnaZagorski@users.noreply.github.com>
+Date:   Thu Mar 4 15:22:24 2021 +0100
+
+    Update Convert ePRTR data to CLRTAP LPS.ipynb
+    
+    Co-authored-by: Kevin Hausmann <kevin.hausmann@uba.de>
+
+[33mcommit 78a911dc70e4862672afbfbe9c56c1412cf80486[m
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Thu Mar 4 14:18:59 2021 +0100
+
+    new ipynb workbook added
+
+[33mcommit 262546a211ea531f7dfad9d122c5074ec8f1ecda[m
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Thu Mar 4 14:16:39 2021 +0100
+
+    new ipynb-workbook added
+
+[33mcommit 14f878dc9fe09a566591b45d1b6dc56a58b1dbad[m
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Thu Mar 4 14:11:48 2021 +0100
+
+    deleted a csv-file which was accidently twofold in different folders
+
+[33mcommit 6dacadd907a3ac467a3da4f59096319badc0a64f[m[33m ([m[1;32msql_query[m[33m)[m
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Thu Mar 4 13:58:13 2021 +0100
+
+    new ipynb file pushed with the most concise SQL query and a new csv-file added as output in the output folder
+
+[33mcommit 379194b56b23fbdce915218b903a1797127d1fa5[m
+Merge: 75f2989 95df5cc
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Thu Mar 4 13:52:53 2021 +0100
+
+    Merge https://github.com/UBA-DE-Emissionsituation/eprtr2lps into sql_query
+
+[33mcommit 95df5cc4a7a83f0186c5951a4b94c1a50f9f51c1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kevin Hausmann <kevin.hausmann@uba.de>
+Date:   Fri Feb 26 08:36:31 2021 +0100
+
+    Put more effort into the Readme.md description and make sure to explain what this repo is about. Outline the steps taken to process the data. (#7)
+
+[33mcommit 75f2989a5f6ac8c09a441d9989c95519411778e1[m[33m ([m[1;32mmain[m[33m)[m
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Thu Feb 25 16:44:18 2021 +0100
+
+    added the sql query in the ipynb workbook
+
+[33mcommit 14b0e5ca05e27890df9a0004946384cf83c15756[m
+Author: AnnaZagorski <anna.zagorski@uba.de>
+Date:   Thu Feb 25 11:04:13 2021 +0100
+
+    created a basic repo structure
+
+[33mcommit 557caf6dd68349310cd99286db92328ff08ddadc[m
+Author: Kevin Hausmann <kevin.hausmann@uba.de>
+Date:   Thu Feb 25 10:09:57 2021 +0100
+
+    Create COPYING
+    
+    Using EUPLv1.2 for this project
+
+[33mcommit 2b626c75c99c4de0d08fc0efbb1b0b24b98729f5[m
+Author: Kevin Hausmann <kevin.hausmann@uba.de>
+Date:   Thu Feb 25 10:05:08 2021 +0100
+
+    Initial commit
