@@ -3,23 +3,22 @@ E-PRTR;E-PRTR name;GNFR14
 1.b;Installations for gasification and liquefaction;B_Industry
 1.c;Thermal power stations and other combustion installations (>50 MW);A_PublicPower
 1.d;Coke ovens;B_Industry
-1.e;;A_PublicPower
+1.e;Coal rolling mills;B_Industry
 1.f;Installations for the manufacture of coal products and solid smokeless fuel;D_Fugitive
 2;Production and processing of metals;B_Industry
 2.a;Metal ore roasting or sintering installations;B_Industry
 2.b;Installations for the production of pig iron or steel inc. continuous casting;B_Industry
 2.c;Installations for the processing of ferrous metals;B_Industry
 2.c.i;Installations for the processing of ferrous metals: (i) hot-rolling mills;B_Industry
-2.c.ii;"Installations for the production of pig iron or steel; and processing of ferrous metals (hot-rolling mills and smitheries with hammers)";B_Industry
+2.c.ii;Installations for the production of pig iron or steel and processing of ferrous metals (hot-rolling mills and smitheries with hammers);B_Industry
 2.d;Ferrous metal foundries;B_Industry
 2.e;Installations for non-ferrous metals;B_Industry
 2.e.i;Installations for the production of non-ferrous crude metals from ore, concentrates or secondary raw materials by metallurgical, chemical or electrolytic processes;B_Industry
-2.e.i;"Installations: (i) for the production of non-ferrous crude metals from ore, concentrates or secondary raw materials by metallurgical, chemical or electrolytic processes; (ii) for the smelting, including the alloying, of non-ferrous metals, including recovered products (refining, foundry casting, etc.)";B_Industry
 2.e.ii;Installations for the smelting, including the alloying, of non-ferrous metals, including recovered products (refining, foundry casting, etc.);B_Industry
 2.f;Installations for surface treatment of metals and plastic materials using an electrolytic or chemical process;B_Industry
-3.a;"Underground mining and related operations; Opencast mining and quarring";B_Industry
-3.b;Opencast mining and quarrying;B_Industry
-3.c;;B_Industry
+3.a;"Underground mining and related operations; Opencast mining and quarring";D_Fugitive
+3.b;Opencast mining and quarrying;D_Fugitive
+3.c;Installations for the production (see below);B_Industry
 3.c.i;Installations for the production of: (i) cement clinker in rotary kilns, (iii) cement clinker or lime in other furnaces;B_Industry
 3.c.ii;Installations for the production of: (ii) lime in rotary kilns, (iii) cement clinker or lime in other furnaces;B_Industry
 3.c.iii;Installations for the production of: (i) cement clinker in rotary kilns, (iii) cement clinker or lime in other furnaces;B_Industry
@@ -28,7 +27,6 @@ E-PRTR;E-PRTR name;GNFR14
 3.f;Installations for melting mineral substances, incl. the production of mineral fibres;B_Industry
 3.g;Installations for the manufacture of ceramic products by firing, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain;B_Industry
 4.a;Chemical installations for the production on an industrial scale of basic organic chemicals;B_Industry
-4.a;"Chemical installations for the production on an industrial scale of basic organic chemicals; Chemical installations for the production on an industrial scale of basic inorganic chemicals";B_Industry
 4.a.i;Chemical installations for the production on an industrial scale of basic organic chemicals: simple hydrocarbons (linear or cyclic, saturated or unsaturated, aliphatic or aromatic);B_Industry
 4.a.ii;Chemical installations for the production on an industrial scale of basic organic chemicals: oxygen-containing hydrocarbons;B_Industry
 4.a.iii;Chemical installations for the production on an industrial scale of basic organic chemicals: sulphurous hydrocarbons;B_Industry
@@ -50,32 +48,27 @@ E-PRTR;E-PRTR name;GNFR14
 4.e;Installations using a chemical or biological process for the production on an industrial scale of basic pharmaceutical products;B_Industry
 4.f;Installations for the production on an industrial scale of explosives and pyrotechnic products;B_Industry
 5.a;Installations for the disposal or recovery of hazardous waste ;J_Waste
-5.a, 5.b;"Installations for the recovery or disposal of non-hazardous waste; Installations for the incineration of non-hazardous waste in the scope of Directive 2000/76/EC of the European Parliament and of the Council of 4 December 2000 on the incineration of waste";J_Waste
 5.b;Installations for the incineration of non-hazardous waste;J_Waste
-5.b;"Installation for the incineration of non-hazardous waste in the scope of Directive 2000/76/EC of the European Parliament and of the Council of 4 December 2000 on the incineration of waste; Thermal power stations and other combustion installations";A_PublicPower
 5.c;Installations for the disposal of non-hazardous waste;J_Waste
-5.d;;J_Waste
+5.d;Landfills;J_Waste
 5.e;Installations for the disposal or recycling of animal carcasses and animal waste;J_Waste
 5.f;Urban waste-water treatment plants;J_Waste
 5.g;Independently operated industrial wastewater treatment plants;J_Waste
 6;Paper and wood producing plants;B_Industry
 6.a;Industrial plants for the production of pulp from timber or similar fibrous materials;B_Industry
-6.a, 6.b;"Industrial plants for the production of pulp from timber or similar fibrous materials; Industrial plants for the production of paper and board and other primary wood products";B_Industry
 6.b;Industrial plants for the production of paper and board and other primary wood products;B_Industry
 6.c;Industrial plants for the preservation of wood and wood products with chemicals;E_Solvents
-7.a;Installations for the intensive rearing of poultry or pigs;L_AgriOther
-7.a.i;Installations for the intensive rearing of poultry or pigs: with 40 000 places for poultry;O_AgriLivestock
-7.a.ii;Installations for the intensive rearing of poultry or pigs: with 2 000 places for production pigs (over 30 kg);O_AgriLivestock
-7.a.iii;Installations for the intensive rearing of poultry or pigs: with 750 places for sows;O_AgriLivestock
+7.a;Installations for the intensive rearing of poultry or pigs;K_AgriLivestock
+7.a.i;Installations for the intensive rearing of poultry or pigs: with 40 000 places for poultry;K_AgriLivestock
+7.a.ii;Installations for the intensive rearing of poultry or pigs: with 2 000 places for production pigs (over 30 kg);K_AgriLivestock
+7.a.iii;Installations for the intensive rearing of poultry or pigs: with 750 places for sows;K_AgriLivestock
 8.a;Slaughterhouses;B_Industry
 8.b;Treatment and processing intended for the production of food and beverage products;B_Industry
 8.b.i;Treatment and processesing intended for the production of food and beverage products from: animal raw materials other than milk;B_Industry
 8.b.ii;Treatment and processesing intended for the production of food and beverage products from: vegetable raw materials;B_Industry
 8.c;Treatment and processing of milk;B_Industry
+9.a;Plants for the pre-treatment (operations such as washing, bleaching, mercerisation) or dyeing of fibres or textiles;E_Solvents
 9.b;Plants for the tanning of hides and skins;E_Solvents
 9.c;Installations for the surface treatment of substances, objects or products using organic solvents;E_Solvents
-9.c, 2.f;"Installations for the surface treatment of substances, objects or products using organic solvents; Installations for surface treatment of metals and plastic materials using an electrolytic or chemical process";E_Solvents
-9.c, 4.a;"Installations for the surface treatment of substances, objects or products using organic solvents; Chemical installations for the production on an industrial scale of basic organic chemicals";E_Solvents
-9.c, 9.a;"Installations for the surface treatment of substances, objects or products using organic solvents; Plants for the pre-treatment (operations such as washing, bleaching, mercerisation) or dyeing of fibres or textiles";E_Solvents
 9.d;Installations for the production of carbon (hard-burnt coal) or electrographite by means of incineration or graphitisation;B_Industry
 9.e;Installations for the building of, and painting or removal of paint from ships;E_Solvents
