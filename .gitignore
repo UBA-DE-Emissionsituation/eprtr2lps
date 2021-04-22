@@ -1,5 +1,5 @@
 # Jupyter notebook backups 
 .ipynb_checkpoints/
-.ipybn.orig
+.ipynb.orig
 __pycache__/
 .pyc
