@@ -5,10 +5,10 @@ E-PRTR;E-PRTR name;GNFR14;Stackheight_dense;Heightclass_dense;Stackheight_sparse
 1.d;Coke ovens;B_Industry;5;>200m;5;>200m
 1.e;Coal rolling mills;B_Industry;5;>200m;5;>200m
 1.f;Installations for the manufacture of coal products and solid smokeless fuel;D_Fugitive;4;150-<200m;4;150-<200m;
-2;Production and processing of metals;B_Industry5;>200m;;
-2.a;Metal ore roasting or sintering installations;B_Industry5;>200m;;
+2;Production and processing of metals;B_Industry;5;>200m;;
+2.a;Metal ore roasting or sintering installations;B_Industry;5;>200m;;
 2.b;Installations for the production of pig iron or steel inc. continuous casting;B_Industry;5;>200m;;
-2.c;Installations for the processing of ferrous metals;B_Industry5;>200m;;
+2.c;Installations for the processing of ferrous metals;B_Industry;5;>200m;;
 2.c.i;Installations for the processing of ferrous metals: (i) hot-rolling mills;B_Industry;5;>200m;;
 2.c.ii;Installations for the production of pig iron or steel and processing of ferrous metals (hot-rolling mills and smitheries with hammers);B_Industry;5;>200m;;
 2.d;Ferrous metal foundries;B_Industry;2;45<100m;;
