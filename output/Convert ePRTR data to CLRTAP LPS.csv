@@ -387,7 +387,7 @@ Ferkelzuchtbetrieb Reichenbach GmbH & Co. KG|K_AgriLivestock|14-65-55443322111|1
 Fernwärme Ulm GmbH|A_PublicPower|06-08-1383701|5|9.96543606960752|48.396659156703|0.221|||||||||||||
 Filthaut Walter|K_AgriLivestock|06-05-978-0235646|1|7.81080687448831|51.5264674590166||||0.0108||||||||||
 Flensburger Schiffbau-Gesellschaft mbH & Co. KG|E_Solvents|01-50-01000004864|1|9.43357019790785|54.8080596749195||0.147||||||||||||
-Flughafen München GmbH - Energiezentrale|A_PublicPower|06-09-178-0722-0001|5|11.7671441028026|48.3572799739746|0.132|||||||||||||
+Flughafen München GmbH - Energiezentrale|A_PublicPower|06-09-178-0722-0001|3|11.7671441028026|48.3572799739746|0.132|||||||||||||
 Fläming-Farm eG|K_AgriLivestock|12-60690400000|1|12.4997508368033|52.053643605469||||0.0229||||||||||
 Fläminger Tiergut GmbH|K_AgriLivestock|12-60690050000|1|12.6412837296997|52.1787909857257||||0.0537||||||||||
 Fondium Mettmann GmbH ehemals GF Casting Solutions Mettmann GmbH|B_Industry|06-05-100-0220879|2|6.98527738305176|51.2463781561175||||||||||||||
@@ -440,7 +440,7 @@ Gehle, Thorsten|K_AgriLivestock|03-70-25603252110|1|9.02560919072307|52.48555890
 Gehring GbR, Thomas und Corinna|K_AgriLivestock|06-08-15052939|1|9.90381571520866|49.1961377786273||||0.0333||||||||||
 Gemeinschaftskraftwerk Bergkamen A beschränkt haftende OHG|A_PublicPower|06-05-900-0205103|5|7.6191278806328|51.6371657731015|1.17||0.739|||||||0.0132||||
 Gemeinschaftskraftwerk Bremen GmbH & Co. KG Christian Doyen|A_PublicPower|06-04-11/2000122/0/0|5|8.68266305569622|53.1290817094392|0.3|||||||||||||
-Gemeinschaftskraftwerk Kiel GmbH GKK|A_PublicPower|01-50-02000283604|5|10.1769762658324|54.3386527337962||||||||||||||
+Gemeinschaftskraftwerk Kiel GmbH GKK|A_PublicPower|01-50-02000283604|A_PublicPower|10.1769762658324|54.3386527337962||||||||||||||
 Gemischte Tierhaltungsanlage Hohen Wangelin|K_AgriLivestock|13-50-5095|1|12.4639001704981|53.618556170352||||0.0215||||||||||
 Gemischte Tierhaltungsanlage Leuschentin|K_AgriLivestock|13-50-133|1|12.8114322382043|53.7398658974944||||0.0182||||||||||
 Genesus Deutschland GmbH|K_AgriLivestock|10334|1|11.7729502983218|51.6794456634711||||0.0112||||||||||
@@ -510,7 +510,7 @@ HeidelbergCement AG Zementwerk Geseke (Milke)|B_Industry|06-05-900-0009824|2|8.5
 HeidelbergCement AG Zementwerk Leimen|B_Industry|06-08-3192067|2|8.68583239823334|49.3576793882337|0.262||0.338|0.0295||||||0.019||||
 HeidelbergCement AG Zementwerk Lengfurt|B_Industry|06-09-677-0011-0001|2|9.61789127922272|49.8084610007378|0.375||0.306|0.0161|||0.673|||0.0206||||
 HeidelbergCement AG Zementwerke Hannover|B_Industry|03-06-06291730660|2|9.86504160545954|52.3753847189091|0.48||0.644|0.0163|||0.945|||0.0205||||
-HeidelbergCement AG, Zementwerk Burglengenfeld|B_Industry|06-09-376-0042-0003|2|12.0282569506749|49.2128324441963|0.271|||0.0122|||0.577|||0.016300000000000002||||
+HeidelbergCement AG, Zementwerk Burglengenfeld|B_Industry|06-09-376-0042-0003|3|12.0282569506749|49.2128324441963|0.271|||0.0122|||0.577|||0.016300000000000002||||
 Heiming GmbH & Co.KG|K_AgriLivestock|06-05-562-0915718|1|7.00701632554761|51.7732957385802||||0.0129||||||||||
 Heinrich Gabriel|K_AgriLivestock|06-05-762-0178905|1|9.23065540143202|51.6437367703919||||0.0108||||||||||
 Heinrich Henke|K_AgriLivestock|03-65-25101099700|1|9.00320699012778|52.8434422119656||||0.0103||||||||||
@@ -597,7 +597,7 @@ K+S KALI GmbH, Werk Werra, Standort Unterbreizbach|D_Fugitive|16-62-09401231000|
 KAVG|J_Waste|06-05-700-0632081|1|8.78334528873576|52.3835660503183||||||||||||||
 KG Rießel Ei GmbH & Co KG|K_AgriLivestock|03-92-46000092898|1|8.27901369776915|52.795161928628||||0.0361||||||||||
 KKA GmbH Deponie Geldern-Pont|J_Waste|06-05-100-0229158|1|6.29781351730767|51.4750551684674||||||||||||||
-KNG Kraftwerks- und Netzgesellschaft mbH Kraftwerk Rostock|A_PublicPower|13-30-1010101|5|12.1329421897268|54.1428127980717|1.39||0.6|||||||0.018600000000000002||||
+KNG Kraftwerks- und Netzgesellschaft mbH Kraftwerk Rostock|A_PublicPower|13-30-1010101|3|12.1329421897268|54.1428127980717|1.39||0.6|||||||0.018600000000000002||||
 KRONOS TITAN GmbH Werk Nordenham|B_Industry|03-09-09261732970|1|8.54674104451136|53.5306843650464||||||||||||||
 KRONOSPAN GmbH|B_Industry|06-05-700-0086227|2|8.97679576388299|51.8302979895043|0.518|0.27||||||||||||
 KRONOSPAN GmbH Lampertswalde|B_Industry|14-70-63947593030|2|13.6630826215257|51.3058579794375|0.284|0.75||||0.0885||||||||
@@ -635,7 +635,7 @@ Kohl Franz-Josef und Daniela GbR|K_AgriLivestock|06-09-273-0352-0001|1|11.760125
 Konrad Hornschuch AG|E_Solvents|06-08-2044048|1|9.58790183245759|49.2972971474298||0.112||||||||||||
 Kraftwerk Boxberg|A_PublicPower|14-70-46630660001|5|14.5743200176594|51.4188479814983|13.4||10.9|||0.35|5.78|0.416|0.012|0.506||||
 Kraftwerk Dessau GmbH|A_PublicPower|12110|5|12.2305655634922|51.8276484934039|0.278||0.713|||||||||||
-Kraftwerk Fenne|A_PublicPower|06-10-00101000|5|6.87899863647934|49.2491320648219|0.712||0.482|||||||||||
+Kraftwerk Fenne|A_PublicPower|06-10-00101000|A_PublicPower|6.87899863647934|49.2491320648219|0.712||0.482|||||||||||
 Kraftwerk Mehrum GmbH|A_PublicPower|03-01-01010098080|5|10.0914151919895|52.315043588157|1.67||1.55|||||||0.028300000000000002||||
 Kraftwerk Obernburg GmbH|A_PublicPower|06-09-676-2101-0002|5|9.14808048104597|49.8293962997416|0.184|||||||||||||
 Kraftwerke Mainz-Wiesbaden AG|A_PublicPower|07-04-6021280|5|8.23749119589684|50.0268991916394|0.232|||||||||||||
@@ -652,8 +652,8 @@ Kötting GbR Inh. Klemens Kötting|K_AgriLivestock|06-05-554-0249725|1|6.9023259
 L + N Recycling GmbH|J_Waste|06-09-774-0077-0001|3|10.2541705747276|48.4302838336103||||||||||||||
 LANXESS Deutschland GmbH CHEMPARK Krefeld-Uerdingen|B_Industry|06-05-100-9021122|1|6.66238453153661|51.3681904153109|0.101|||||||||||||
 LEAG Lausitz Energie Kraftwerke AG  Kraftwerk Lippendorf|A_PublicPower|14-80-00009560000|5|12.3716433864114|51.1841395368113|8.08||11.4|||0.0583|||0.013|0.503||||
-LEAG, Kraftwerk Jänschwalde|A_PublicPower|12-40710010000|5|14.4579893421063|51.8336010742182|18.8||14.5|||0.559|10.1|1.72||0.904||||
-LEAG, Kraftwerk Schwarze Pumpe|A_PublicPower|12-40716440000|5|14.3535757297201|51.5354973928124|6.29||7.45|||0.135|0.815|0.487|0.0577|0.295||||
+LEAG, Kraftwerk Jänschwalde|A_PublicPower|12-40710010000|3|14.4579893421063|51.8336010742182|18.8||14.5|||0.559|10.1|1.72||0.904||||
+LEAG, Kraftwerk Schwarze Pumpe|A_PublicPower|12-40716440000|3|14.3535757297201|51.5354973928124|6.29||7.45|||0.135|0.815|0.487|0.0577|0.295||||
 LEIPA Georg Leinfelder Werk Schwedt Nord|B_Industry|12-20730810000|2|14.3188386845825|53.0867621524363|0.171|||||||||||||
 LEIPA Georg Leinfelder Werk Schwedt Süd|B_Industry|12-20730660000|2|14.3197657762307|53.0790994282391|0.284|||||||||||||
 LGH Landwirtschaftliche Gesellschaft mbH|K_AgriLivestock|14-74-47147620000|1|14.2626736140376|51.2984172424145||||0.0133||||||||||
@@ -1162,13 +1162,13 @@ Stadtwerke Duisburg AG|A_PublicPower|06-05-100-0229264|5|6.74807002393149|51.390
 Stadtwerke Düsseldorf AG|A_PublicPower|06-05-100-0167182|5|6.72915097863114|51.2191044335569|0.62||||||0.769|||||||
 Stadtwerke Düsseldorf AG|J_Waste|06-05-100-0407176|2|6.82300187851179|51.2256732427172|0.357|||||||||||||
 Stadtwerke Erfurt / HKW Ost|A_PublicPower|16-30-30400102003|5|11.0401191723367|51.0172423170719|0.181|||||||||||||
-Stadtwerke Flensburg GmbH|A_PublicPower|01-50-01000004838|5|9.43269578392638|54.8048545092916|0.196||0.208|||||||||||
+Stadtwerke Flensburg GmbH|A_PublicPower|01-50-01000004838|3|9.43269578392638|54.8048545092916|0.196||0.208|||||||||||
 Stadtwerke Frankfurt (Oder) GmbH Stadtwerke Frankfurt (Oder) GmbH|A_PublicPower|12-30532000000|5|14.5315166401919|52.3182215367203|0.141||0.166|||||||||||
 Stadtwerke Leipzig GmbH|A_PublicPower|16725|5|12.5699365772614|51.8708533262732||||||||||||||
 Stadtwerke Leipzig GmbH, HKW Leipzig|A_PublicPower|14-80-55047380000|5|12.3781626779252|51.3514417271002||||||||||||||
 Stadtwerke Münster GmbH|A_PublicPower|06-05-500-0221194|5|7.64051049088003|51.9502603783038|0.176|||||||||||||
 Stadtwerke Osnabrück AG Kläranlage Eversburg|J_Waste|03-10-10100420010|1|8.01813349734231|52.2982301429486||||||||||||||
-Stadtwerke Rostock AG|A_PublicPower|13-30-2102110|5|12.0838301193717|54.1277766528551||||||||||||||
+Stadtwerke Rostock AG|A_PublicPower|13-30-2102110|3|12.0838301193717|54.1277766528551||||||||||||||
 Stahlwerk Thüringen GmbH|B_Industry|16-86-74283520000|5|11.4342877973921|50.6534956845769|0.156||||||1.27|0.275||||0.18||
 Statkraft Markets GmbH|A_PublicPower|06-05-300-9975553|5|6.84716942373725|50.8616034826589||||||||||||||
 Statkraft Markets GmbH (Biomasseheizkraftwerk Emden)|J_Waste|03-04-04041762920|3|7.20169769087539|53.3406807156755|0.127|||||||||||||
@@ -1217,7 +1217,7 @@ Tierzucht Packisch GmbH & Co KG|K_AgriLivestock|14-80-00056450000|1|13.155016476
 Tobias Heimann GbR|K_AgriLivestock|06-05-774-9974690|1|8.82584320969938|51.6725170109494||||0.011||||||||||
 Tranel Alfons|K_AgriLivestock|03-88-45602530660|1|7.24391044378348|52.525476918643||||0.0107||||||||||
 Transfertex GmbH & Co. Thermodruck KG|E_Solvents|06-09-671-0183-0001|1|9.04055396018771|50.0229483669177||0.163||||||||||||
-Trianel Gaskraftwerk Hamm GmbH & Co. KG|A_PublicPower|06-05-900-9140178|5|7.92866419093948|51.6732902551032|0.205|||||||||||||
+Trianel Gaskraftwerk Hamm GmbH & Co. KG|A_PublicPower|06-05-900-9140178|3|7.92866419093948|51.6732902551032|0.205|||||||||||||
 Trianel Kohlekraftwerk Lünen GmbH & Co. KG|A_PublicPower|06-05-900-9141660|5|7.4652362544489|51.6141140844466|0.997||0.903||||0.773|||||||
 Truthahnfarm Sambach GmbH|K_AgriLivestock|16-90-72560200000|1|10.4170475654722|51.2258429989093||||0.0148||||||||||
 UPM GmbH, Werk Augsburg|B_Industry|06-09-761-0026-0001|2|10.901434674664|48.3798939440389||0.109||||||||||||
@@ -1253,7 +1253,7 @@ Vattenfall Wärme  Berlin AG  GuD-HKW Lichterfelde|A_PublicPower|06-11-01-110561
 Vattenfall Wärme Berlin AG HKW Klingenberg|A_PublicPower|06-11-01-1105501|5|13.4959737040295|52.4900270804304|0.294|||||||||||||
 Vattenfall Wärme Berlin AG HKW Lichterfelde|A_PublicPower|06-11-01-1105607|5|13.30960917319|52.4233940920699||||||||||||||
 Vattenfall Wärme Hamburg GmbH|A_PublicPower|01-50-56050192711|5|9.725672873908|53.5664742488512|0.776||0.629|||||||0.0255||||
-Vattenfall Wärme Hamburg Heizkraftwerk Tiefstack|A_PublicPower|06-02-B10132A001|5|10.0655194812345|53.5260858040331|0.459||0.333|||||||0.0147||||
+Vattenfall Wärme Hamburg Heizkraftwerk Tiefstack|A_PublicPower|06-02-B10132A001|3|10.0655194812345|53.5260858040331|0.459||0.333|||||||0.0147||||
 Venator Germany GmbH|B_Industry|06-05-100-0888309|1|6.70522297354611|51.4395284866711|0.244||0.561|||||||||||
 Venator Uerdingen GmbH|B_Industry|06-05-100-9008609|1|6.66238453153661|51.3681904153109|0.123||0.495|||||||||||
 Vennix Agrar|K_AgriLivestock|12-30671210000|1|14.4981618018701|52.1358161688701||||0.0175||||||||||
