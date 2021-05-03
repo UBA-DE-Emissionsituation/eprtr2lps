@@ -1,0 +1,12 @@
+name;sector_code;sector_name;class;available;number
+Jänschwalde;1.c;A_PublicPower;3;y;1
+Schwarze Pumpe;1.c;A_PublicPower;3;y;1
+München;1.c;A_PublicPower;3;y;1
+Tiefstack;1.c;A_PublicPower;3;y;1
+Rostock;1.c;A_PublicPower;3;y;2
+Hamm;1.c;A_PublicPower;3;y;1
+Lünen Trianel;1.c;A_PublicPower;3;y;1
+Flensburg;1.c;A_PublicPower;3;y;1
+Kiel;1.c;A_PublicPower;3;y;1
+Fenne;1.c;A_PublicPower;3;y;1
+Burglengenfeld;3.c.i;B_Industry;3;y;1
