@@ -1,7 +1,7 @@
 import geopandas as gpd
 import numpy
 import os
-import gdal
+from osgeo import gdal
 from scipy import interpolate
 import pykrige as pykg
 
