@@ -1,0 +1,5 @@
+# Jupyter notebook backups 
+.ipynb_checkpoints/
+*.pyc
+.pyc
+__pycache__/
